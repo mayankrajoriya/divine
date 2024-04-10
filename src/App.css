@@ -1,0 +1,15 @@
+.main{
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 25vh;
+}
+
+.btn{
+    width:12rem;
+}
+
+.in{
+    display: inline-block;
+
+}
